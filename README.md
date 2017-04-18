@@ -1,9 +1,14 @@
-# api documentation for  [grunt-filerev (v2.3.1)](https://github.com/yeoman/grunt-filerev#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-filerev.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-filerev) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-filerev.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-filerev)
+# npmdoc-grunt-filerev
+
+#### api documentation for  [grunt-filerev (v2.3.1)](https://github.com/yeoman/grunt-filerev#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-filerev.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-filerev) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-filerev.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-filerev)
+
 #### Asset revisioning by using file content hashing
 
-[![NPM](https://nodei.co/npm/grunt-filerev.png?downloads=true)](https://www.npmjs.com/package/grunt-filerev)
+[![NPM](https://nodei.co/npm/grunt-filerev.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-filerev)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-grunt-filerev/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-grunt-filerev_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-grunt-filerev/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-grunt-filerev/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-grunt-filerev/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-grunt-filerev/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-grunt-filerev/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-grunt-filerev/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "Frederick Ros",
-        "email": "frederick.ros@gmail.com",
         "url": "https://github.com/sleeper"
     },
     "bugs": {
@@ -63,32 +67,25 @@
     "license": "BSD",
     "maintainers": [
         {
-            "name": "sindresorhus",
-            "email": "sindresorhus@gmail.com"
+            "name": "sindresorhus"
         },
         {
-            "name": "sleeper",
-            "email": "frederick.ros@gmail.com"
+            "name": "sleeper"
         },
         {
-            "name": "addyosmani",
-            "email": "addyosmani@gmail.com"
+            "name": "addyosmani"
         },
         {
-            "name": "paulirish",
-            "email": "paul.irish@gmail.com"
+            "name": "paulirish"
         },
         {
-            "name": "passy",
-            "email": "phartig@rdrei.net"
+            "name": "passy"
         },
         {
-            "name": "sboudrias",
-            "email": "admin@simonboudrias.com"
+            "name": "sboudrias"
         },
         {
-            "name": "eddiemonge",
-            "email": "eddie+npm@eddiemonge.com"
+            "name": "eddiemonge"
         }
     ],
     "name": "grunt-filerev",
@@ -96,7 +93,6 @@
     "peerDependencies": {
         "grunt": ">=0.4.0"
     },
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/yeoman/grunt-filerev.git"
@@ -107,16 +103,6 @@
     "version": "2.3.1"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module grunt-filerev](#apidoc.module.grunt-filerev)
-
-
-
-# <a name="apidoc.module.grunt-filerev"></a>[module grunt-filerev](#apidoc.module.grunt-filerev)
 
 
 
