@@ -1,6 +1,6 @@
 # npmdoc-grunt-filerev
 
-#### api documentation for  [grunt-filerev (v2.3.1)](https://github.com/yeoman/grunt-filerev#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-filerev.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-filerev) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-filerev.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-filerev)
+#### basic api documentation for  [grunt-filerev (v2.3.1)](https://github.com/yeoman/grunt-filerev#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-filerev.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-filerev) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-filerev.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-filerev)
 
 #### Asset revisioning by using file content hashing
 
@@ -100,7 +100,8 @@
     "scripts": {
         "test": "grunt"
     },
-    "version": "2.3.1"
+    "version": "2.3.1",
+    "bin": {}
 }
 ```
 
